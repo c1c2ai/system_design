@@ -169,3 +169,9 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
  8. Monetization
 
 Best of luck :+1:, feel free to send pull requests to add more content to this git!
+
+Grokking the system design interview (educative.io)
+https://www.quora.com/How-is-grokking-the-system-design-interview-course-Is-it-worth-buying-for-80
+
+In educative.io there are many paths which can be helpful, like
+ace for java interview, ace for javascript interview, ace for python interview, ace the C++ coding interview
